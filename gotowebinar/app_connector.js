@@ -12,8 +12,8 @@ const app = {
   config: { authType: "oauth_2" },
 
   connection: {
-    client_id: "491e6e36-4561-4c2a-acae-108e72d79f61",
-    client_secret: "dJcqAMb8j45JQvGXBmypV0oZ",
+    client_id: "",
+    client_secret: "",
     redirect_uri: "https://proxy.quickwork.co.in/gotowebinar/code",
     
     authorization: {
